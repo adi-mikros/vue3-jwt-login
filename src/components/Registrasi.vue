@@ -20,7 +20,7 @@
                         <input type="text" name="pass" v-model="pass" class="form-control mb-3">
                     </div>
                    <div class="form-group">
-                        <label for="pass">Ulang Kata Sandi</label>
+                        <label for="pass">Isi Ulang Kata Sandi</label>
                         <input type="text" name="pass" v-model="passk" class="form-control mb-3">
                     </div>
                     <button class="btn btn-class mt-3">Registrasi</button>
